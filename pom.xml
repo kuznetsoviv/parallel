@@ -21,6 +21,7 @@
 
     <modules>
         <module>price-aggregator</module>
+        <module>locks</module>
     </modules>
 
     <dependencyManagement>
@@ -39,7 +40,5 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-
 
 </project>
